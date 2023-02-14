@@ -8,6 +8,7 @@ namespace G1.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
+        // change to main branch
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
