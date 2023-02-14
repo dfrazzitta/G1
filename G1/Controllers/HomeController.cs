@@ -11,6 +11,8 @@ namespace G1.Controllers
         // change to main branch
 
         // we r now in the branch edit 
+
+        // still in branch 1
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
