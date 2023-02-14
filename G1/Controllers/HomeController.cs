@@ -9,6 +9,8 @@ namespace G1.Controllers
         private readonly ILogger<HomeController> _logger;
 
         // change to main branch
+
+        // we r now in the branch edit 
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
